@@ -138,10 +138,6 @@ In one terminal, source the setup file and then run a C++ talker:
 ros2 run demo_nodes_cpp talker
 ```
 
-In another terminal source the setup file and then run a Python listener:
-
-```bash
-
 
 
 

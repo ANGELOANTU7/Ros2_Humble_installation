@@ -141,6 +141,13 @@ ros2 run demo_nodes_cpp talker
 In another terminal source the setup file and then run a Python listener:
 
 ```bash
+
+
+
+
+### Errors You Might Encounter
+
+1. **Incorrect System Time**: If your system time is incorrect, you might encounter issues while installing packages. It's essential to ensure that your system time is accurately set to avoid potential errors during package installation. You can update your system time using utilities provided by your operating system or by synchronizing with an NTP (Network Time Protocol) server.
 . ~/ros2_humble/install/local_setup.bash
 ros2 run demo_nodes_py listener
 ```

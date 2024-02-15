@@ -15,3 +15,5 @@ rufus link --> https://rufus.ie/en/
 5. **Install Ubuntu**: Follow the on-screen instructions to install Ubuntu 22.04 on your system. You can choose to install alongside an existing operating system or replace it entirely.
 
 6. **Complete Installation**: Once the installation process is complete, remove the USB drive and restart your computer. You should now have Ubuntu 22.04 installed and ready to use.
+
+## Installing ROS2 Humble
